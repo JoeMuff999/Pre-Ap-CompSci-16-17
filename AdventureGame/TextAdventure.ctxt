@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TextAdventure()
+comment1.params=
+comment1.target=void\ roomDescription()
+comment2.params=command\ description
+comment2.target=void\ nextCommand(java.lang.String,\ java.lang.String)
+comment3.params=where
+comment3.target=void\ go(java.lang.String)
+comment4.params=what
+comment4.target=void\ take(java.lang.String)
+comment5.params=whatToUse
+comment5.target=void\ use(java.lang.String)
+comment6.params=
+comment6.target=boolean\ gameOver()
+numComments=7

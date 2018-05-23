@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AdventureGame()
+comment1.params=
+comment1.target=void\ areaDescription()
+comment2.params=command
+comment2.target=void\ nextCommand(java.lang.String)
+comment3.params=
+comment3.target=boolean\ gameOver()
+numComments=4

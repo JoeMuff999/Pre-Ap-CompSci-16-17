@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Snake()
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment10.params=evt
+comment10.target=void\ windowActivated(java.awt.event.WindowEvent)
+comment11.params=evt
+comment11.target=void\ windowDeactivated(java.awt.event.WindowEvent)
+comment2.params=
+comment2.target=void\ moveSnake()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment4.params=evt
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=evt
+comment5.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment6.params=evt
+comment6.target=void\ windowOpened(java.awt.event.WindowEvent)
+comment7.params=evt
+comment7.target=void\ windowClosed(java.awt.event.WindowEvent)
+comment8.params=evt
+comment8.target=void\ windowIconified(java.awt.event.WindowEvent)
+comment9.params=evt
+comment9.target=void\ windowDeiconified(java.awt.event.WindowEvent)
+numComments=12
